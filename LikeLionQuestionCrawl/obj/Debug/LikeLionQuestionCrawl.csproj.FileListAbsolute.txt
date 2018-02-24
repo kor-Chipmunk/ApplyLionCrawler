@@ -1,0 +1,17 @@
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\LikeLionQuestionCrawl.exe.config
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\LikeLionQuestionCrawl.exe
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\LikeLionQuestionCrawl.pdb
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.csprojResolveAssemblyReference.cache
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.Properties.Resources.resources
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.csproj.GenerateResource.Cache
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.csproj.CoreCompileInputs.cache
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.exe
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.pdb
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.csproj.ResolveComReference.cache
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\obj\Debug\LikeLionQuestionCrawl.Form1.resources
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\RestSharp.dll
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\System.ValueTuple.dll
+C:\Users\Chipmunk\source\repos\LikeLionQuestionCrawl\LikeLionQuestionCrawl\bin\Debug\System.ValueTuple.xml
